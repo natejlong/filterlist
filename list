@@ -1,3 +1,18 @@
 reddit.com
 youtube.com
 news.ycombinator.com
+! 2021-11-01 https://dailypostla.com
+dailypostla.com##.theiaStickySidebar
+
+! 2021-12-02 https://www.youtube.com
+www.youtube.com###related
+
+! 2022-04-02 https://tex.stackexchange.com
+tex.stackexchange.com##.show-votes
+*.stackexchange.com##.show-votes
+! 2022-05-09 https://stackoverflow.com
+stackoverflow.com##.show-votes
+
+! 2022-06-11 https://emacs.stackexchange.com
+emacs.stackexchange.com##.show-votes
+
