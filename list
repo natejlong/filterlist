@@ -1,10 +1,8 @@
 ! 2021-11-01 https://dailypostla.com
 dailypostla.com##.theiaStickySidebar
 
-! 2021-12-02 https://www.youtube.com
+! Unintentional Content
 www.youtube.com###related
-
 stackexchange.com##.show-votes
 stackoverflow.com##.show-votes
-
-
+www.youtube.com###comments
