@@ -1,14 +1,14 @@
-! 2021-11-01 https://dailypostla.com
-dailypostla.com##.theiaStickySidebar
-
-! Unintentional Content
 www.youtube.com###related
+www.youtube.com###comments
+
 stackexchange.com##.show-votes
 stackexchange.com###hot-network-questions
+
 stackoverflow.com##.show-votes
 stackoverflow.com###hot-network-questions
+
 askubuntu.com##.show-votes
-www.youtube.com###comments
+
 
 
 www.reddit.com###TrendingPostsContainer
