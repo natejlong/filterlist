@@ -22,3 +22,11 @@ www.amazon.com##[id="pageContent"]
 
 !Block carousels of recommendations/suggestions
 www.amazon.com##[aria-label="Your recently viewed items and featured recommendations"]
+
+! 2022-09-01 https://twitter.com
+twitter.com##[aria-label="Who to follow"]
+twitter.com##[aria-label="Timeline: Trending now"]
+
+! 2022-09-01 https://www.quora.com
+www.quora.com###mainContent > div > div:has-text(Related questions)
+www.quora.com##.dom_annotate_related_questions
