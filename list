@@ -13,4 +13,12 @@ www.reddit.com###TrendingPostsContainer
 www.reddit.com##:xpath(//div[contains(text(), "More posts you may like")]):upward(1)
 www.reddit.com##h2:has-text(Similar to this post):upward(6)
 
+!Block homepage gallery of suggestions
 www.youtube.com##[role="main"] [page-subtype="home"]
+
+
+!Block homepage gallery of suggestions
+www.amazon.com##[id="pageContent"]
+
+!Block carousels of recommendations/suggestions
+www.amazon.com##[aria-label="Your recently viewed items and featured recommendations"]
