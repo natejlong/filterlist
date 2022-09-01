@@ -7,3 +7,8 @@ stackexchange.com##.show-votes
 stackoverflow.com##.show-votes
 askubuntu.com##.show-votes
 www.youtube.com###comments
+
+
+www.reddit.com###TrendingPostsContainer
+www.reddit.com##:xpath(//div[contains(text(), "More posts you may like")]):upward(1)
+www.reddit.com##h2:has-text(Similar to this post):upward(6)
